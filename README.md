@@ -1,2 +1,3 @@
 # delta-demo
-This is demo repo for git and github
+Hi I am Shrawani I am learning ai-ml from apna college.
+This is demo repo for git and github.
